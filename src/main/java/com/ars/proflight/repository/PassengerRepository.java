@@ -1,4 +1,4 @@
-package com.ars.proflight.controller;
+package com.ars.proflight.repository;
 
 import com.ars.proflight.model.PassengerModel;
 import org.springframework.data.mongodb.repository.MongoRepository;
